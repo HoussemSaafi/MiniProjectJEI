@@ -1,0 +1,9 @@
+[2021-12-26 14:32:25.035] [main] [info] update#setState idle
+[2021-12-26 14:32:25.746] [main] [info] ExtensionHostStarterWorker created
+[2021-12-26 14:32:31.588] [main] [info] Starting extension host with pid 3838 (fork() took 76 ms).
+[2021-12-26 14:32:51.446] [main] [info] Extension host with pid 3838 exited with code: 0, signal: null.
+[2021-12-26 14:32:53.888] [main] [info] Starting extension host with pid 3914 (fork() took 13 ms).
+[2021-12-26 14:32:55.037] [main] [info] update#setState checking for updates
+[2021-12-26 14:32:55.039] [main] [info] update#setState idle
+[2021-12-26 14:36:18.303] [main] [info] Waiting for extension host with pid 3914 to exit.
+[2021-12-26 14:36:18.516] [main] [info] Extension host with pid 3914 exited with code: 0, signal: null.

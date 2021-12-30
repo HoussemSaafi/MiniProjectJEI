@@ -1,0 +1,31 @@
+[2021-12-26 14:32:34.398] [exthost] [info] Extension host with pid 3838 started
+[2021-12-26 14:32:34.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-26 14:32:35.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-26 14:32:35.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-26 14:32:35.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-26 14:32:35.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-26 14:32:35.832] [exthost] [info] Eager extensions activated
+[2021-12-26 14:32:35.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-26 14:32:35.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-26 14:32:35.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-26 14:32:51.153] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-26 14:32:51.161] [exthost] [info] Extension host with pid 3838 exiting with code 0
+[2021-12-26 14:32:55.979] [exthost] [info] Extension host with pid 3914 started
+[2021-12-26 14:32:55.979] [exthost] [info] Skipping acquiring lock for /home/aki/mini-projet-JEI/frontend/User/workspaceStorage/95495820b8e740115885b6f991f071e6.
+[2021-12-26 14:32:56.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-26 14:32:56.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-26 14:32:56.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-26 14:32:56.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-12-26 14:32:56.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-26 14:32:56.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2021-12-26 14:32:56.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-26 14:32:57.153] [exthost] [info] Eager extensions activated
+[2021-12-26 14:32:57.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-26 14:32:57.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-26 14:32:59.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-12-26 14:33:01.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-12-26 14:33:02.109] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-12-26 14:33:03.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-26 14:33:03.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-26 14:36:18.248] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-26 14:36:18.313] [exthost] [info] Extension host with pid 3914 exiting with code 0
