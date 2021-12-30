@@ -55,8 +55,7 @@ const Home = () => {
                     {users.map(user =>
                         <tr key={user.id} >
                             <th scope="row">
-                                <img width="50" height="50" style={{ borderRadius: '50%' }} 
-                                src={'/api/users/profilePicture/' + user.id} id="Avatar" />
+                                <img width="50" height="50" style={{ borderRadius: '50%' }}  src={'/api/users/profilePicture/' + user.id} id="Avatar" alt='avatar'/>
                             </th>
                             <td>{user.username}</td>
                             <td>{user.email}</td>
